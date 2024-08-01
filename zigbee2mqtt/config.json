@@ -1,6 +1,6 @@
 {
+  "version": "1.39.1-1",
   "name": "Zigbee2MQTT-Alternate",
-  "version": "1.39.0-1",
   "slug": "zigbee2mqtt-alternate",
   "description": "Use your ZigBee devices without the vendor's bridge or gateway",
   "uart": true,
